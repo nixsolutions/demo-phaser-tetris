@@ -2,7 +2,11 @@ Phaser Demo Game - «Tetris»
 ====================================================
 
 HTML5 game «Tetris» developed with popular JS framework Phaser.io. It's a demo game with a goal to show ability of creation such games on Phaser. Application is oriented as for mobile touch devices Aple (ipad, iphone), designed in the style of 'Flat'.
+<<<<<<< HEAD
 [Demo](http://tetris.baev.jsui.nixdev.co)
+=======
+[Demo](https://nixsolutions.github.io/demo-phaser-tetris)
+>>>>>>> fff0487f570b24578cc1c31ac104650e365d8fed
 
 Features
 --------
