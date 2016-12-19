@@ -1,8 +1,10 @@
 Phaser Demo Game - «Tetris»
 ====================================================
+Description
+--------
+This fascinating tetromino puzzle will add colors and fun to your life. Besides, this is a wonderful brain stimulator. An objective of the game is to remove lines and to get as many points as you can.
 
-HTML5 game «Tetris» developed with popular JS framework Phaser.io. It's a demo game with a goal to show ability of creation such games on Phaser. Application is oriented as for mobile touch devices Aple (ipad, iphone), designed in the style of 'Flat'.
-[Demo](https://nixsolutions.github.io/demo-phaser-tetris)
+HTML5 game «Tetris» was  developed with popular JS framework Phaser.io. This demo game shows the ability of creation such games on Phaser. The application can be run on mobile touch devices (iPad, iPhone). The design was made in the style of 'Flat'.</br> [Demo](https://nixsolutions.github.io/demo-phaser-tetris)
 
 
 Features
@@ -17,3 +19,8 @@ Technologies
 
 * [Phaser.io](https://phaser.io/)
 * [Texture packer](https://www.codeandweb.com/texturepacker)
+* JavaScript
+* Canvas/WebGL
+* Bitmap Font
+* Web Audio
+* [Sketch](https://www.sketchapp.com/)
