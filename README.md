@@ -1,10 +1,10 @@
-Phaser Demo Game - «Tetris»
+Phaser Demo Game - «Brick Arena»
 ====================================================
 Description
 --------
 This fascinating tetromino puzzle will add colors and fun to your life. Besides, this is a wonderful brain stimulator. An objective of the game is to remove lines and to get as many points as you can.
 
-HTML5 game «Tetris» was  developed with popular JS framework Phaser.io. This demo game shows the ability of creation such games on Phaser. The application can be run on mobile touch devices (iPad, iPhone). The design was made in the style of 'Flat'.</br> [Demo](https://nixsolutions.github.io/demo-phaser-tetris)
+HTML5 game «Brick Arena» was  developed with popular JS framework Phaser.io. This demo game shows the ability of creation such games on Phaser. The application can be run on mobile touch devices (iPad, iPhone). The design was made in the style of 'Flat'.</br> [Demo](https://nixsolutions.github.io/demo-phaser-tetris)
 
 
 Features
